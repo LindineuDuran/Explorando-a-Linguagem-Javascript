@@ -13,5 +13,5 @@
 - Trabalhando com eventos
 - Funções e objetos
 ### Material de Apoio
-- [Download e Instalação do nodeJS] (https://nodejs.org/en/)
+- [Download e Instalação do nodeJS](https://nodejs.org/en/)
 - [Aprendendo Padrões de Design JavaScript | Addy Osmani](https://addyosmani.com/)
